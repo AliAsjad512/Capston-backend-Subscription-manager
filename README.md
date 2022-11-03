@@ -16,3 +16,4 @@ An exclusive backend Github repository.
 Uses Postman to test routes.
 Use best practices while storing credentials in the backend. Plaintext storage of passwords is never advisable. The backend should salt and hash the password once the user enters it before storing it in the database.
 Implement JWT authentication when appropriate.
+  
